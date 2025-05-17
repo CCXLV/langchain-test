@@ -1,1 +1,1 @@
-This is just me trying out LangChain for the first time :)
+This is just me trying out LangChain for the first time
